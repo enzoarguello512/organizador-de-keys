@@ -1,5 +1,5 @@
 # Organizador-de-keys
-**Creado con el propósito de facilitar activar licencias con ASF (ArchiSteamFarm).**
+**Creado con el propósito de facilitar activar licencias con [ASF (ArchiSteamFarm)](https://github.com/JustArchiNET/ArchiSteamFarm).**
 
 ---
 Básicamente es una “herramienta” para acelerar un poco el proceso de registrar las keys
@@ -37,7 +37,7 @@ El “programa” también cuenta con la capacidad de abrir archivos (probado co
 
 ---
 ### Requisitos:
-Para la versión “.py” solamente hace falta tener instalado Python y para la versión “.exe” no hace falta nada
+Para la versión “.py” solamente hace falta tener instalado [Python](https://www.python.org/) y para la versión “.exe” no hace falta nada
 
 ---
 ### Bugs y demás:
