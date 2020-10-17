@@ -7,7 +7,8 @@ Básicamente es una “herramienta” para acelerar un poco el proceso de regist
 <p align="center"><img src="https://imgur.com/2XLleh9.png"></p>
 
 Puede detectar solamente keys que estén separadas con algún tipo de espacio y también puede eliminar aquellas que parezcan incorrectas si así usted lo desea
-Ejemplo:
+
+<strong>Ejemplo:</strong>
 
 <p align="center"><img src="https://imgur.com/WzPHWWS.png"></p>
 
@@ -15,14 +16,16 @@ Nótese que hay un total de 5 keys , una se repite y ya lo maneja el programa de
 
 El botón opcional que aparece ahí para tildar funciona para eliminar claves (del resultado) que cumplan alguno de los siguientes 2 parámetros
 
-####Keys que tengan una letra que se repita 5 veces o mas (sin ningún orden en específico)
+#### Keys que tengan una letra que se repita 5 veces o mas (sin ningún orden en específico)
+
 <strong>Ejemplo:</strong>
 
 <pre><code>AOOAO-OOAAO-OAOAO</code></pre>
 
 En este caso la letra “A” se repite mas de 5 veces y teniendo el filtro activado se eliminaría del resultado
 
-####Keys que tengan una letra que se repita 4 veces o más de manera consecutiva
+#### Keys que tengan una letra que se repita 4 veces o más de manera consecutiva
+
 <strong>Ejemplo:</strong>
 
 
@@ -33,11 +36,11 @@ En este caso la letra “A” se repite mas de 5 veces y teniendo el filtro acti
 El “programa” también cuenta con la capacidad de abrir archivos (probado con archivos de texto nada más, osea “.txt”, no se que otros resultados puedan tener con otros tipos) y también puede guardarlos
 
 ---
-###Requisitos:
+### Requisitos:
 Para la versión “.py” solamente hace falta tener instalado Python y para la versión “.exe” no hace falta nada
 
 ---
-###Bugs y demás:
+### Bugs y demás:
 
 Ya se que esta escrito como el cul* xD, en algún momento lo voy a arreglar, va, si me acuerdo ajajaj, na pero enserio, algunos errores que encontré fueron:
 
