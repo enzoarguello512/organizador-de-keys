@@ -48,3 +48,7 @@ Ya se que esta escrito como el cul* xD, en algún momento lo voy a arreglar, va,
 * Intentar ingresar caracteres inválidos en los casilleros de texto
 * Este igual creo que ya lo corregí pero hay veces que me parece que no guarda los archivos
 * Y capas alguna falta de ortografía (es probable)
+
+---
+### Creditos:
+* A [u/Jackojc](https://www.reddit.com/user/Jackojc/) por hacer la mayoría del trabajo con las funciones
