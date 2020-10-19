@@ -12,7 +12,7 @@ from tkinter import filedialog
 
 root = Tk()
 root.title("Organizador de keys")
-root.iconbitmap ('Lata.ico')
+root.iconbitmap ('default_icon.ico')
 
 MenuBar = Menu(root)
 root.config(menu = MenuBar)
